@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yanyubin/webpacklearn/issues"
   },
-  "homepage": "https://github.com/yanyubin/webpacklearn#readme"
+  "homepage": "https://github.com/yanyubin/webpacklearn#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
 }
